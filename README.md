@@ -1,24 +1,33 @@
-# 💫 About Me:
-🔭 I'm an informatics engineering student<br>🌱 I'm currently learning a programming<br>⚡ Fun fact "nothing"
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=-Arbitrary-&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=azizarbiansyah-byte">
+    <img src="https://komarev.com/ghpvc/?username=azizarbiansyah-byte&label=Profile%20views&color=00FFFF&style=flat-square" alt="azizarbiansyah-byte's profile views" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Banner" width="100%" />
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/azizarbiansyah-byte">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizarbiansyah-byte&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="azizarbiansyah-byte's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=azizarbiansyah-byte&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="azizarbiansyah-byte's GitHub Streak" width="49%" />
+</p>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4rbiyann) 
+## 🛠️ Languages & Tools
+![Top language](https://stats.pphat.top/languages?username=azizarbiansyah-byte)
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arbiyan&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Arbiyan&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arbiyan&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arbiyan&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<p align="center"><a href="https://www.buymeacoffee.com/-" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Arbiyan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
