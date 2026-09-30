@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=-Arbitrary-&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+<h1 align="center">Hey <img src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" height="30px" width="30px"> I'm Arbitrary</h1>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=azizarbiansyah-byte">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -20,6 +20,9 @@
 ## 🛠️ Languages & Tools
 ![Top language](https://stats.pphat.top/languages?username=azizarbiansyah-byte)
 <br/>
+
+## 💬 Quote
+> Cogito, ergo sum
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
