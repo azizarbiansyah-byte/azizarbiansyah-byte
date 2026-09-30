@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" height="30px" width="30px"> I'm Arbitrary</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Arbitrary</h1>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=azizarbiansyah-byte">
@@ -11,9 +11,9 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/azizarbiansyah-byte">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizarbiansyah-byte&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="azizarbiansyah-byte's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizarbiansyah-byte&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="azizarbiansyah-byte's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=azizarbiansyah-byte&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="azizarbiansyah-byte's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=azizarbiansyah-byte&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="azizarbiansyah-byte's GitHub Streak" width="49%" />
 </p>
 
 
